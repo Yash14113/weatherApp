@@ -5,4 +5,4 @@
    3. install node module in the directore command should be : npm i
 
 # Running the app in the development phase run the following command .
-  npm runn dev
+  npm run dev
